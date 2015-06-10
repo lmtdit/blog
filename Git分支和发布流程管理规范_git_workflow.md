@@ -27,4 +27,4 @@
 - 在哪个环境发现的bug就从哪个环境切bug分支
 - 紧急和超级bug会出现跨流程发布的情况，在bug解决之后，必须进行回源（逆向合并）
 
-![gitlab代码管理流程](./git_workflow.png)
+![gitlab代码管理流程](./img/git_workflow.png)
