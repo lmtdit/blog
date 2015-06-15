@@ -1,4 +1,4 @@
-# JavaScript编程规范
+# 基于AMD规范的JavaScript编程及开发优化规范
 
 
 `BY Pang.J.G`
